@@ -1,0 +1,4 @@
+<html>
+<body bgcolour"yellow">
+<h1>this is microsoft azure cloud</h1
+<html/>
